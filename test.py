@@ -1,0 +1,1 @@
+print [(x * 0.9) for x in [((x / 4.0) / 2) for x in range (12,21)]]
